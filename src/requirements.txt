@@ -12,3 +12,4 @@ passlib>=1.7.2
 pathvalidate
 python-dateutil
 yubikey-manager[yubikey]>=5.0
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
